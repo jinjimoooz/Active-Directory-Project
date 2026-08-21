@@ -4,6 +4,8 @@
 
 Build an Active Directory environment from scratch using VMware Workstation to simulate a small enterprise network.
 
+---
+
 ## Tools
 
 - VMware Workstation
