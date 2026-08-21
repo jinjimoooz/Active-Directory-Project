@@ -20,8 +20,8 @@
 - **Root Domain Name:** `company.local`
 
 ![Windows Server 2022 WinVer](Screenshots/Win-Server-2022_WinVer.png)
-![Windows Server 2022 Active Directory Download](Screenshots/Win-Server-2022_AD Download.png)
-![Windows Server 2022 Domain Creation](Screenshots/Win-Server-2022_Domain Creation.png)
+![Windows Server 2022 Active Directory Download](Screenshots/Win-Server-2022_AD-Download.png)
+![Windows Server 2022 Domain Creation](Screenshots/Win-Server-2022_Domain-Creation.png)
 
 ---
 
