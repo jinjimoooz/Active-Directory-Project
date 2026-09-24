@@ -1,5 +1,7 @@
 ## Group Policy Objects (GPO) Configuration
 
+![Windows Server 2022 GPO Creation](Screenshots/Win-Server-2022_GPO.png)
+
 **Applied Password Policy:**
 
 - Minimum password length
@@ -25,5 +27,3 @@
 **Removable Storage Devices:**
 
 - Disabled read/write access to USB storage devices.
-
-![Windows Server 2022 GPO Creation](Screenshots\Win-Server-2022_GPO.png)
