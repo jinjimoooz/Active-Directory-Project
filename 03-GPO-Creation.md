@@ -26,4 +26,4 @@
 
 - Disabled read/write access to USB storage devices.
 
-![Desktop Wallpaper Policy](Screenshots\Windows Server 2022_GPO.png)
+![Windows Server 2022 GPO Creation](Screenshots\Win-Server-2022_GPO.png)
